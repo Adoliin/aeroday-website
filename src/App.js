@@ -19,7 +19,7 @@ function App() {
       
       <Navbar />
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/aeroday-website">
           <Home />
         </Route>
         <Route exact path="/contact">
