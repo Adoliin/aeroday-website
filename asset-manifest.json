@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/aeroday-website/static/css/main.75e258d3.chunk.css",
+    "main.js": "/aeroday-website/static/js/main.7132a01f.chunk.js",
+    "main.js.map": "/aeroday-website/static/js/main.7132a01f.chunk.js.map",
+    "runtime-main.js": "/aeroday-website/static/js/runtime-main.a5f83163.js",
+    "runtime-main.js.map": "/aeroday-website/static/js/runtime-main.a5f83163.js.map",
+    "static/js/2.fc264ee1.chunk.js": "/aeroday-website/static/js/2.fc264ee1.chunk.js",
+    "static/js/2.fc264ee1.chunk.js.map": "/aeroday-website/static/js/2.fc264ee1.chunk.js.map",
+    "static/js/3.99fb3128.chunk.js": "/aeroday-website/static/js/3.99fb3128.chunk.js",
+    "static/js/3.99fb3128.chunk.js.map": "/aeroday-website/static/js/3.99fb3128.chunk.js.map",
+    "index.html": "/aeroday-website/index.html",
+    "static/css/main.75e258d3.chunk.css.map": "/aeroday-website/static/css/main.75e258d3.chunk.css.map",
+    "static/js/2.fc264ee1.chunk.js.LICENSE.txt": "/aeroday-website/static/js/2.fc264ee1.chunk.js.LICENSE.txt",
+    "static/media/1.1697be4c.png": "/aeroday-website/static/media/1.1697be4c.png",
+    "static/media/1.a3773e1d.png": "/aeroday-website/static/media/1.a3773e1d.png",
+    "static/media/2.272ae8b6.png": "/aeroday-website/static/media/2.272ae8b6.png",
+    "static/media/2.9b86c34b.png": "/aeroday-website/static/media/2.9b86c34b.png",
+    "static/media/3.5f8dc83b.png": "/aeroday-website/static/media/3.5f8dc83b.png",
+    "static/media/3.8aaa276b.png": "/aeroday-website/static/media/3.8aaa276b.png",
+    "static/media/4.ca62aa29.png": "/aeroday-website/static/media/4.ca62aa29.png",
+    "static/media/4.eb1a34b0.png": "/aeroday-website/static/media/4.eb1a34b0.png",
+    "static/media/5.d39ba191.png": "/aeroday-website/static/media/5.d39ba191.png",
+    "static/media/5.d8575538.png": "/aeroday-website/static/media/5.d8575538.png",
+    "static/media/Logo.c24647f6.svg": "/aeroday-website/static/media/Logo.c24647f6.svg",
+    "static/media/ONTT.7f99ba7e.png": "/aeroday-website/static/media/ONTT.7f99ba7e.png",
+    "static/media/Sogip.483a0b69.png": "/aeroday-website/static/media/Sogip.483a0b69.png",
+    "static/media/ZENHOST.fe4e240e.png": "/aeroday-website/static/media/ZENHOST.fe4e240e.png",
+    "static/media/carousel-bg.67a67c28.jpg": "/aeroday-website/static/media/carousel-bg.67a67c28.jpg",
+    "static/media/App.css": "/aeroday-website/static/media/wave-backround.06d321af.png",
+    "static/media/slide_1.2d0df732.jpg": "/aeroday-website/static/media/slide_1.2d0df732.jpg",
+    "static/media/slide_2.f74aa8ac.jpg": "/aeroday-website/static/media/slide_2.f74aa8ac.jpg",
+    "static/media/slide_3.234717e6.jpg": "/aeroday-website/static/media/slide_3.234717e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5f83163.js",
+    "static/js/2.fc264ee1.chunk.js",
+    "static/css/main.75e258d3.chunk.css",
+    "static/js/main.7132a01f.chunk.js"
+  ]
+}
