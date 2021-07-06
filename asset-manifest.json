@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aeroday-website/static/css/main.75e258d3.chunk.css",
-    "main.js": "/aeroday-website/static/js/main.0f36a6d8.chunk.js",
-    "main.js.map": "/aeroday-website/static/js/main.0f36a6d8.chunk.js.map",
+    "main.js": "/aeroday-website/static/js/main.52998223.chunk.js",
+    "main.js.map": "/aeroday-website/static/js/main.52998223.chunk.js.map",
     "runtime-main.js": "/aeroday-website/static/js/runtime-main.a5f83163.js",
     "runtime-main.js.map": "/aeroday-website/static/js/runtime-main.a5f83163.js.map",
     "static/js/2.b726d017.chunk.js": "/aeroday-website/static/js/2.b726d017.chunk.js",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.a5f83163.js",
     "static/js/2.b726d017.chunk.js",
     "static/css/main.75e258d3.chunk.css",
-    "static/js/main.0f36a6d8.chunk.js"
+    "static/js/main.52998223.chunk.js"
   ]
 }
